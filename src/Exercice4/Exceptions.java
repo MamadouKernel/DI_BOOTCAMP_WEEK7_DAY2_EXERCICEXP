@@ -1,5 +1,10 @@
 package Exercice4;
 
+
+/*
+*@author Konate-MK
+*/
+
 class Exceptions {
     public static void main( String args[] ) {
 
@@ -14,3 +19,8 @@ class Exceptions {
         }
     }
 }
+
+
+/*
+*@author Konate-MK
+*/
