@@ -1,5 +1,10 @@
 package Exercice3;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Customer {
     private int ID;
     private String name;
@@ -27,3 +32,9 @@ public class Customer {
         return name + ("" + ID + "");
     }
 }
+
+
+
+/*
+*@author Konate-MK
+*/
