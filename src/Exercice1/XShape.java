@@ -1,4 +1,10 @@
 package Exercice1;
+
+
+/*
+*@author Konate-MK
+*/
+
 // Derived Class
 public class XShape extends Shape {
     private String name;
@@ -14,3 +20,8 @@ public class XShape extends Shape {
     }
 
 }
+
+
+/*
+*@author Konate-MK
+*/
