@@ -1,5 +1,10 @@
 package Exercice3;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Account {
     private int id;
     private Customer customer;
@@ -52,3 +57,8 @@ public class Account {
         return this;
     }
 }
+
+
+/*
+*@author Konate-MK
+*/
