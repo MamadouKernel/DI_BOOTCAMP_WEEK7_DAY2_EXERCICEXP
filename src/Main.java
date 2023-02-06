@@ -1,6 +1,11 @@
 import Exercice1.Shape;
 import Exercice1.XShape;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Main {
     public static void main(String[] args) {
 
@@ -9,3 +14,8 @@ public class Main {
         System.out.println("\n"+circle.getName()+"\n");
     }
 }
+
+
+/*
+*@author Konate-MK
+*/
