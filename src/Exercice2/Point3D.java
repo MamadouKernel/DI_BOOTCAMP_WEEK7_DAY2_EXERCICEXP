@@ -1,5 +1,10 @@
 package Exercice2;
 
+
+/*
+*@author Konate-MK
+*/
+
 public class Point3D extends Point2D {
     private float z;
 
@@ -38,3 +43,9 @@ public class Point3D extends Point2D {
     }
 
 }
+
+
+
+/*
+*@author Konate-MK
+*/
